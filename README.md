@@ -2,7 +2,10 @@
 Created by :
        ❣️ Ravindra kamble
        ❣️ kamblerk1234@gmail.com
-      
+       ❣️ instagram : ravi_kamble_2194
+       ❣️ linkedin :
+       ❣️ facebook : 
+
 **************************************
 👍 Basic need :
    👍For termux :
@@ -11,6 +14,6 @@ Created by :
          😎cc filename.c
          😎./a.out
 **************************************
-C programming code
-1)hello.c 
-2)
+
+
+
