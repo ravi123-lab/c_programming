@@ -4,7 +4,7 @@
 |  Created by :                      |
 |       ❣️ Ravindra kamble           |
 |       ❣️ kamblerk1234@gmail.com    |
-|       ❣️ instagram:ravi_kamble_2194|
+|       ❣️ instagram:ravi_kamble_.   |
 |       ❣️ linkedin :                |
 |       ❣️ facebook :                |
 |                                    |
